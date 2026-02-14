@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Riya Patel 👋
 
-<!--
-**Riya5407/Riya5407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Computer Science Engineering Student  
+💻 Passionate about Programming, AI & Software Development  
+🚀 Building skills one project at a time  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I am a CSE student currently strengthening my foundation in programming and problem-solving.  
+I enjoy building small projects, learning new technologies, and exploring the world of Artificial Intelligence.
+
+I believe in learning by doing — which is why I consistently upload my practice programs and projects here.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:**
+- C Programing 
+- Python (Currently Learning)
+
+**Core Areas:**
+- Data Structures & Algorithms (Beginner Level)
+- Problem Solving
+- Basic CLI Application Development
+
+---
+
+## 📂 Current Learning Focus
+
+- Mastering Data Structures & Algorithms
+- Writing clean and efficient code
+- Building real-world mini projects
+- Exploring AI and automation tools
+
+---
+
+## 📈 Goals
+
+- Contribute to open-source projects
+- Build impactful software projects
+- Secure internships in tech
+- Grow as a problem solver and developer
+
+---
+
+## 📬 Connect With Me
+
+- GitHub: https://github.com/yourusername
+
+---
+
+✨ *“Consistency beats intensity.”*
