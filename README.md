@@ -48,7 +48,7 @@ I believe in learning by doing — which is why I consistently upload my practic
 
 ## 📬 Connect With Me
 
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/Riya5407
 
 ---
 
