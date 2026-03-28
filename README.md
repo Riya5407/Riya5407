@@ -1,77 +1,90 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Riya+Patel+%F0%9F%91%8B;CSE+(AI-ML)+%40+Adani+University;Builder.+Learner.+Problem+Solver.;Let's+build+something+together+%F0%9F%9A%80" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=185FA5&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Riya+Patel+%F0%9F%91%8B;CSE+(AI-ML)+%40+Adani+University+%F0%9F%8E%93;Builder+%7C+Learner+%7C+Problem+Solver+%F0%9F%9A%80;Open+to+Collaborate+%26+Learn+Together+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Riya5407&style=flat-square&color=185FA5&label=Profile+Views" />
+<a href="https://github.com/Riya5407"><img src="https://komarev.com/ghpvc/?username=Riya5407&style=for-the-badge&color=185FA5&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Riya5407?style=flat-square&label=Followers&color=181717&logo=github)](https://github.com/Riya5407)
+<a href="https://github.com/Riya5407?tab=followers"><img src="https://img.shields.io/github/followers/Riya5407?style=for-the-badge&color=1D9E75&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" /></a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-patel-328120379)
+<a href="https://linkedin.com/in/riya-patel-328120379"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://leetcode.com/riya5407"><img src="https://img.shields.io/badge/LEETCODE-riya5407-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
 
-### 👩‍💻 About Me
+### 🧬 Who Am I?
 
 ```python
 class Riya:
-    name       = "Riya Patel"
-    university = "Adani University, Ahmedabad"
-    degree     = "CSE (AI-ML) — Semester 2"
-    interests  = ["AI/ML", "DSA", "Web Dev", "Open Source"]
-    currently  = "Building. Learning. Grinding."
-    fun_fact   = "I debug with print() and I'm proud of it 😄"
+    name        = "Riya Patel"
+    location    = "Ahmedabad, India 🇮🇳"
+    university  = "Adani University"
+    degree      = "B.Tech CSE (AI-ML) — Sem 2"
+    languages   = ["C", "Python", "HTML", "CSS"]
+    interests   = ["AI/ML", "DSA", "Web Dev", "Open Source"]
+    dsa_grind   = "Striver A2Z + LeetCode daily 💪"
+    currently   = "Building skills. Shipping code. Growing."
+    goal_2026   = "Top tech internship + 200 LeetCode problems"
+    fun_fact    = "I debug with print() and I'm proud 😄"
 ```
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-**Languages**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode&theme=light&perline=7" alt="Tech Stack Icons" />
+</a>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-**Tools & Platforms**
+<br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+<div align="center">
+
+**Learning Next →**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react&theme=light&perline=3" alt="Learning" />
+</a>
 
 </div>
 
 ---
 
-### 🧠 DSA Journey
+### 🧠 DSA Grind
 
-> Currently grinding **Striver's A2Z DSA Sheet** and solving problems on **LeetCode** daily.
-> Every solution I write gets committed here on GitHub — because consistency is the only shortcut.
-
-| Topic | Status |
-|---|---|
-| Arrays & Strings | 🟢 In Progress |
-| Linked Lists | 🟡 Up Next |
-| Stacks & Queues | 🔵 Upcoming |
-| Trees & Graphs | 🔵 Upcoming |
-| Dynamic Programming | 🔵 Upcoming |
+> I believe **consistency over intensity**. I solve DSA problems every single day on LeetCode and track my journey through Striver's A2Z sheet. Every commit here is proof of that grind.
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/riya5407?theme=light&font=Fira%20Code&ext=activity)](https://leetcode.com/riya5407)
+<a href="https://leetcode.com/riya5407">
+  <img src="https://leetcard.jacoblin.cool/riya5407?theme=light&font=Fira%20Code&ext=activity&border=0" alt="LeetCode Stats Card" />
+</a>
 
 </div>
+
+<br/>
+
+**Striver A2Z Progress**
+
+| 🟩 Done | Topic | Status |
+|:---:|---|:---:|
+| ✅ | Arrays & Strings | In Progress |
+| 🔜 | Linked Lists | Up Next |
+| ⏳ | Stacks & Queues | Upcoming |
+| ⏳ | Trees & Binary Search | Upcoming |
+| ⏳ | Graphs | Upcoming |
+| ⏳ | Dynamic Programming | Upcoming |
 
 ---
 
@@ -79,21 +92,39 @@ class Riya:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Riya5407&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=185FA5&icon_color=1D9E75&text_color=24292f&bg_color=ffffff" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya5407&layout=compact&theme=default&hide_border=true&title_color=185FA5&text_color=24292f&bg_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Riya5407&show_icons=true&hide_border=true&count_private=true&title_color=185FA5&icon_color=1D9E75&text_color=24292f&bg_color=fafafa&rank_icon=github" height="175" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya5407&layout=compact&hide_border=true&title_color=185FA5&text_color=24292f&bg_color=fafafa&langs_count=6" height="175" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Riya5407&theme=default&hide_border=true&ring=185FA5&fire=1D9E75&currStreakLabel=185FA5&sideLabels=185FA5&dates=24292f" />
+<img src="https://streak-stats.demolab.com?user=Riya5407&hide_border=true&ring=185FA5&fire=1D9E75&currStreakLabel=185FA5&sideLabels=24292f&dates=888888&background=fafafa" alt="GitHub Streak" />
 
 </div>
 
+---
+
+### 🏆 GitHub Trophies
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya5407&theme=minimal&hide_border=true&color=185FA5&line=1D9E75&point=185FA5&area=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Riya5407&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Riya5407/Riya5407/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Riya5407/Riya5407/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://github.com/Riya5407/Riya5407/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -101,26 +132,25 @@ class Riya:
 
 ### 🚀 Projects
 
-| Project | What I built | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| 🏫 [Coaching Center](https://github.com/Riya5407/Coaching-Center) | Responsive site for a coaching institute | HTML · CSS |
+| 🏫 [Coaching Center](https://github.com/Riya5407/Coaching-Center) | Responsive coaching institute website | HTML · CSS |
 | 🎓 [Learning Institute](https://github.com/Riya5407/Learning-Institute) | Clean educational platform UI | HTML · CSS |
 | 📋 [Admission Automation](https://github.com/Riya5407/admission-automation-site) | Student admission flow with forms | HTML · CSS |
 | 🏛️ [Institute Website](https://github.com/Riya5407/Institute-website) | Full coaching institute portal | HTML · CSS |
 
-> 🔨 More projects in progress — a Python automation tool and a complete DSA solutions repo are coming soon.
+> 🔨 **Coming soon:** A Python automation project + a public DSA solutions repo (Striver A2Z commits daily)
 
 ---
 
-### 🎯 2025 – 2026 Goals
 
-- [ ] 🧩 Complete Striver's A2Z DSA sheet end to end
-- [ ] 💻 Solve 200+ problems on LeetCode
-- [ ] 🐍 Build 3 real Python projects
-- [ ] 🌐 Ship a full-stack web project
-- [ ] 🤝 Land a tech internship
-- [ ] 🌟 Make my first open-source contribution
-- [ ] 📈 Grow to 100+ GitHub followers
+### 💬 Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" alt="Dev Quote" />
+
+</div>
 
 ---
 
@@ -128,26 +158,31 @@ class Riya:
 
 <div align="center">
 
-I'm always open to collaborating on projects, discussing DSA, or just talking tech.
-Don't hesitate to reach out — let's build something great together.
+I'm always open to collaborating on projects, discussing DSA strategies, or just vibing over tech.
+Don't be a stranger — say hello! 👋
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-patel-328120379)
-[![LeetCode](https://img.shields.io/badge/LeetCode-riya5407-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/riya5407)
-[![GitHub](https://img.shields.io/badge/GitHub-Riya5407-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riya5407)
-[![Email](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyasp050407@gmail.com)
+<a href="https://linkedin.com/in/riya-patel-328120379">
+  <img src="https://img.shields.io/badge/LinkedIn-Riya%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/riya5407">
+  <img src="https://img.shields.io/badge/LeetCode-riya5407-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+&nbsp;
+<a href="https://github.com/Riya5407">
+  <img src="https://img.shields.io/badge/GitHub-Riya5407-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="mailto:YOUR-EMAIL-HERE">
+  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,50:1D9E75,100:185FA5&height=100&section=footer&animation=twinkling" alt="Footer wave" />
 
-<div align="center">
-
-*"Consistency beats intensity. Ship daily, learn daily, grow daily."*
-
-⭐ **Found something useful here? Drop a star — it genuinely motivates me to keep going!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:1D9E75&height=80&section=footer" />
+<sub>⭐ If you found something useful, drop a star — it motivates me to keep building and sharing!</sub>
 
 </div>
