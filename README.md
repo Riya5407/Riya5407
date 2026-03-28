@@ -175,7 +175,7 @@ Don't be a stranger — say hello! 👋
   <img src="https://img.shields.io/badge/GitHub-Riya5407-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="mailto:YOUR-EMAIL-HERE">
+<a href="mailto:riyasp050407@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
