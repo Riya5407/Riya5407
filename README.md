@@ -26,7 +26,7 @@ I believe the best way to grow is to ship publicly, stay consistent, and stay cu
 - 🐍 Building fluency in **Python** — scripts, automation, small projects
 - 🌐 Shipping web projects to practice and grow my portfolio
 - 🤖 Exploring **AI/ML fundamentals** — the field I want to build a career in
-- 📝 Sharing what I learn on **[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-ID-HERE)**
+- 📝 Sharing what I learn on **[LinkedIn](https://www.linkedin.com/in/riya-patel-328120379/)**
 
 ---
 
@@ -57,9 +57,9 @@ I believe the best way to grow is to ship publicly, stay consistent, and stay cu
 
 I'm always open to collaborating on interesting projects, pair programming, or just a good tech conversation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Patel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-ID-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Patel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-patel-328120379/)
 [![GitHub followers](https://img.shields.io/github/followers/Riya5407?style=flat-square&label=Follow%20on%20GitHub&color=181717&logo=github)](https://github.com/Riya5407)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:riyasp050407@gmail.com)
 
 ---
 
