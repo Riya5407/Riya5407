@@ -18,7 +18,7 @@ I believe in learning by doing — which is why I consistently upload my practic
 ## 🛠️ Technical Skills
 
 **Languages:**
-- C Programing 
+- C Programming 
 - Python (Currently Learning)
 
 **Core Areas:**
