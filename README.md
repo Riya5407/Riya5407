@@ -107,20 +107,17 @@ class Riya:
 
 ---
 
-
----
-
 ### 🚀 Projects
 
 | Project | Description | Stack | Status |
 |---|---|---|:---:|
-| 🤖 [LinkedIn Post Writer](https://github.com/Riya5407) | AI-powered tool that drafts LinkedIn posts using Claude API | HTML · CSS · JS · Claude API | 🔨 Building |
+| 🤖 LinkedIn Post Writer | AI-powered tool that drafts LinkedIn posts using Claude API | HTML · CSS · JS · Claude API | 🔨 Building |
+| 💰 [Expense Tracker CLI](https://github.com/Riya5407/expense-tracker-cli) | Command-line expense tracker | Python | ✅ Live |
 | 🏫 [Coaching Center](https://github.com/Riya5407/Coaching-Center) | Responsive coaching institute website | HTML · CSS | ✅ Live |
 | 🎓 [Learning Institute](https://github.com/Riya5407/Learning-Institute) | Clean educational platform UI | HTML · CSS | ✅ Live |
 | 📋 [Admission Automation](https://github.com/Riya5407/admission-automation-site) | Student admission flow with forms | HTML · CSS | ✅ Live |
-| 🏛️ [Institute Website](https://github.com/Riya5407/Institute-website) | Full coaching institute portal | HTML · CSS | ✅ Live |
 
-> 🔨 **Coming soon:** Python automation scripts + a public DSA solutions repo with daily Striver A2Z commits
+> 🏆 **Live:** Check out my public [DSA solutions repo](https://github.com/Riya5407/dsa-solutions) tracking my daily Striver A2Z progress!
 
 ---
 
