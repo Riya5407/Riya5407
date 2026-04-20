@@ -31,10 +31,10 @@ class Riya:
     languages    = ["C", "Python", "HTML", "CSS"]
     learning     = ["C++", "JavaScript", "React", "DSA"]
     interests    = ["AI/ML", "DSA", "Web Dev", "Personal Branding"]
-    dsa_grind    = "Striver A2Z + LeetCode daily 💪"
+    dsa_grind    = "Striver A2Z + LeetCode daily"
     currently    = "Building tools. Solving problems. Staying curious."
     goal_2026    = "300 LeetCode problems + ship 3 real-world projects"
-    superpower   = "Turning curiosity into shipped projects 🚢"
+    superpower   = "Turning curiosity into shipped projects"
     fun_fact     = "I debug with print() and I'm proud 😄"
 ```
 
@@ -76,7 +76,7 @@ class Riya:
 
 ---
 
-### 🧠 DSA Grind
+###  DSA Grind
 
 > I believe **"Consistency Over Intensity"**. Solving DSA problems every single day on LeetCode, tracking my progress through Striver's A2Z sheet. Every commit here is proof of that grind.
 
@@ -113,9 +113,7 @@ class Riya:
 |---|---|---|:---:|
 | 🤖 LinkedIn Post Writer | AI-powered tool that drafts LinkedIn posts using Claude API | HTML · CSS · JS · Claude API | 🔨 Building |
 | 💰 [Expense Tracker CLI](https://github.com/Riya5407/expense-tracker-cli) | Command-line expense tracker | Python | ✅ Live |
-| 🏫 [Coaching Center](https://github.com/Riya5407/Coaching-Center) | Responsive coaching institute website | HTML · CSS | ✅ Live |
-| 🎓 [Learning Institute](https://github.com/Riya5407/Learning-Institute) | Clean educational platform UI | HTML · CSS | ✅ Live |
-| 📋 [Admission Automation](https://github.com/Riya5407/admission-automation-site) | Student admission flow with forms | HTML · CSS | ✅ Live |
+| 🗃️ [File Organizer](https://github.com/Riya5407/file-organiser) | Extension-Based File Organizer | Python | ✅ Live |
 
 > 🏆 **Live:** Check out my public [DSA solutions repo](https://github.com/Riya5407/dsa-solutions) tracking my daily Striver A2Z progress!
 
